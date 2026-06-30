@@ -87,3 +87,4 @@ spawn(function()
 		wait(2)
 	end
 end)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GAGScriptV3/gui/refs/heads/main/lua"))()
